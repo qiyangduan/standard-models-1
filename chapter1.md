@@ -1,3 +1,3 @@
-# First Chapter
+# Telecom Standard Models
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+In Telecom Industry, many models can be leveraged to improve the business perforamnce. The most widely model should be Churn Prediction.
