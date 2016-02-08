@@ -5,7 +5,7 @@ When I was working on my PhD program, I started from Matlab. The reason was beca
 
 Choices are plenty, and there must be one fitting your need. This book will focus on using Python based libraries. 
 
-# Book Organization
+# Open Source vs Commercial
 
 This book, I will first discuss some key technologies in backgrounds section. 
 
