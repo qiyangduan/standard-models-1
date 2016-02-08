@@ -12,7 +12,7 @@ This book's mission is to provide one set of business problem definitions and wo
 # What this book talks about and not talks about
 This book will focus on how to build data mining models for each business problem in various industries. 
 
-Though I worked hard learning theories of each algorithms, like SVM, GMM, etc, I am still no match to those real experts. Therefore, I will only try to apply those algorithms to some real business problems, but not to improve the algorithm from technical point of view.
+Though I spent some time learning theories of each algorithms, like SVM, GMM, etc, I am still no match to those real experts. Therefore, I will only try to apply those algorithms to some real business problems, but not to improve the algorithm from technical point of view. Existing literatures covered this topic quite well. For example, [Pattern matching and Machine Learning (by Christopher Bishop )](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) was a good one.
 
 
 
