@@ -10,9 +10,7 @@ I will start by a few commonly seen mining models, not to talk about a general i
 # What this book talks about and not talks about
 This book will focus on how to build data mining models for each business problem in various industries.
 
-# Book Orgnization
 
-This book, I will first discuss some key technologies in backgrounds section. 
 
 
 
