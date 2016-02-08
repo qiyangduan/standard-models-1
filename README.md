@@ -6,7 +6,15 @@ Business process can be standardized, so can be data mining models analyzing tho
 
 I will start by a few commonly seen mining models, not to talk about a general idea how to implement, but rather providing a standard product to run the model. Please refer to https://github.com/qiyangduan/stanmo for downloading the models.
 
-What tool to use
+
+# What this book talks about and not talks about
+This book will focus on how to build data mining models for each business problem in various industries.
+
+# Book Orgnization
+
+This book, I will first discuss some key technologies in backgrounds section. 
+
+
 =======
 When starting a new mining project, the first major decision is which tool or platform to use. Choices are plenty, and there must be one fitting your need. This book will focus on using Python based libraries. 
 
