@@ -12,7 +12,7 @@ This book's mission is to provide one set of business problem definitions and wo
 # What this book talks about and not talks about
 This book will focus on how to build data mining models for each business problem in various industries. 
 
-Though I worked quite hard to 
+Though I worked hard learning theories of each algorithms, like SVM, GMM, etc, I am still no match to those real experts. Therefore, I will only try to apply those algorithms to some real business problems, but not to improve the algorithm from technical point of view.
 
 
 
