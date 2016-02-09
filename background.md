@@ -12,3 +12,8 @@ This book, I will first discuss some key technologies in backgrounds section.
 # Python vs R
 
 Python is for programmers and R is for statisticians.
+
+# Python
+There are many excellent free materials of learning Python. Here is a short list of the ones I found useful:
+[Quantecon Python Doc](http://quant-econ.net/py/index.html)
+
