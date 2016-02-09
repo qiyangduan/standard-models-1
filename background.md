@@ -10,6 +10,7 @@ Though people hear Big Data as a fuzzy word, most of times, their data value may
 
 Market is ruthless. Because they are proprietary softwares, if they fail in competition, you are in risk of losing your competency. I know quite some old engineers who were master of Infomix, DB2, VisualBasic, etc.   On the contrary, if you master of R or Python, this tool will be with you forever.
 
+I choose only open source technologies.
 
 # Python vs R
 
