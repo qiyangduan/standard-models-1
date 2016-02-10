@@ -14,9 +14,9 @@ I choose only open source technologies.
 
 # Python vs R
 First of all, R is awesome. But it's just not my type. 
-After a few months, I have a feeling: *Python is for programmers and R is for statisticians*.
+After a few months, I have a feeling: *Python is for programmers and R is for statisticians*. I came from computer science background, so I go for Python. In the future, Scala or Julia might gain more grounds, but they would be easier to migrate to from Python side, than from the R side. R is like an Microsoft platform. Once you are onboard onto Visual C++
 
-The battle between R and Python reminds me something about ICT convergence. To me, ICT convergence does not seems more chanlleging to Telecom operators than to those vendors like Huawei, Ericsson. Telecom carriers used to spend huge amount of money buying all different proprietary, *expensive* and *siloed* softwares, including sales (salesforce vs amdocs), . This was not an issue when the business was booming, since you always have new money to buy another software to cover last wrong deal. However, with 3G, 4G Mobile BroadBand (MBB), OTT players (facebook, Youtube) dorminanted human communication field and drained out Telco's cash flow. Then Telco's must evaluate every investment carefully. Low-cost and standard softwares come on stage finnally.
+The battle between R and Python reminds me something about ICT convergence. To me, ICT convergence does not seems more chanlleging to Telecom operators than to those vendors like Huawei, Ericsson. Telecom carriers used to spend huge amount of money buying all different proprietary, *expensive* and *siloed* softwares, including sales (salesforce vs amdocs), billing ( ? vs Huawei/Ericsson), Core Network (? vs Ericsson/Huawei), etc. This was not an issue when the business was booming, since you always have new money to buy another software to cover last wrong deal. However, with 3G, 4G Mobile BroadBand (MBB), OTT players (facebook, Youtube) dorminanted human communication field and drained out Telco's cash flow. Then Telco's must evaluate every investment carefully. Low-cost and standard softwares come on stage finnally.
 
 
 For R, I leart quite a lot from those 2 sites:
