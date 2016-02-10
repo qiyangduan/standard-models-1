@@ -13,7 +13,7 @@ Market is ruthless. Because they are proprietary softwares, if they fail in comp
 I choose only open source technologies.
 
 # Python vs R
-
+First of all, R is awesome. But it's just not my type. The battle between R and Python reminds me something about ICT convergence. 
 Python is for programmers and R is for statisticians.
 
 # Python
