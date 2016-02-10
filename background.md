@@ -13,8 +13,18 @@ Market is ruthless. Because they are proprietary softwares, if they fail in comp
 I choose only open source technologies.
 
 # Python vs R
-First of all, R is awesome. But it's just not my type. The battle between R and Python reminds me something about ICT convergence. 
-Python is for programmers and R is for statisticians.
+First of all, R is awesome. But it's just not my type. 
+After a few months, I have a feeling: *Python is for programmers and R is for statisticians*.
+
+The battle between R and Python reminds me something about ICT convergence. To me, ICT convergence does not seems more chanlleging to Telecom operators than to those vendors like Huawei, Ericsson. Telecom carriers used to spend huge amount of money buying all different proprietary and *siloed* softwares  
+
+
+For R, I leart quite a lot from those 2 sites:
+* [Applied Predictive Modeling](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf)
+* [R Tutorial](http://www.theanalysisfactor.com/resources/by-topic/r/)
+
+For Python, 
+
 
 # Python
 There are many excellent free materials of learning Python. Here is a short list of the ones I found useful:
