@@ -11,6 +11,7 @@ To make thing worse, even with Matlab, implementing a Churn Prediction Model is 
 For R you might find and like:
 * [Churn Prediction in Telecom Industry Using ](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)
 
+
 For Matlab, you get some documents and you still left with 70% of puzzle to put together by yourself.
 
 
@@ -31,6 +32,7 @@ The battle between R and Python also reminds me something about ICT convergence.
 
 
 For R, I leart quite a lot from those 2 sites:
+* [Togaware, R Docs](http://togaware.com/onepager/)
 * [Applied Predictive Modeling](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf)
 * [R Tutorial](http://www.theanalysisfactor.com/resources/by-topic/r/)
 
