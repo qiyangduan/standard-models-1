@@ -28,5 +28,6 @@ For Python, there are many excellent free materials. Here is a short list of the
 * [Quantecon Python Doc](http://quant-econ.net/py/index.html)
 * Whenever I have trouble, I always paste error code to google and it leads me to stackoverflow. I love stackoverflow.
 
+I said many good things about Python. The only thing I hate about Python is Version 2 to Version 3 disruption. It was completely unnecessary and suicidal as a language. Maybe there are good reasons, but I never run into the benefits. 
 
 # Algorithms and Theories
