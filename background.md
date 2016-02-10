@@ -30,5 +30,6 @@ For Python,
 There are many excellent free materials of learning Python. Here is a short list of the ones I found useful:
 * [Python Tutorial](http://www.pythondoc.com/pythontutorial3/index.html#)
 * [Quantecon Python Doc](http://quant-econ.net/py/index.html)
+* Whenever I have trouble, I always paste error code to google and it leads me to stackoverflow. I love stackoverflow.
 
 
