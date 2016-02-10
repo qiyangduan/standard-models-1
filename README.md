@@ -1,6 +1,6 @@
 Why This Book
 =======
-If data mining model is a wheel, this wheel has been created too many times.  In my previous career, I have observed people from different orgnizations creating the same data mining models,  over and over again. For many times, they are not even using the latest technologies. For example, churn prediction in telecom is a common problem and most Telecom Carriers wrote their own implementation. When technology evolves (like social, big data), those various in-house models are pretty difficult to upgrade. However, on the other hand, no vendor have created any standard models to tackle this problem. 
+If data mining model is a wheel, this wheel has been invented too many times.  In my previous career, I have observed people from different orgnizations creating the same data mining models,  over and over again. For many times, they are not even using the latest technologies. For example, churn prediction in telecom is a common problem and most Telecom Carriers wrote their own implementation. When technology evolves (like social, big data), those various in-house models are pretty difficult to upgrade. However, on the other hand, no vendor have created any standard models to tackle this problem. 
 
 Business process can be standardized, so can be data mining models analyzing those business processes. This book will try to provide one standard mining model for each business problem.
 
