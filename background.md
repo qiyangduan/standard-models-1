@@ -3,14 +3,24 @@ When starting a new mining project, the first major decision is which tool or pl
 
 When I was working on my PhD program, I started from Matlab. The reason was because of a project assignment from the Numerical Optimization class. No doubt that Matlab is a good matrix manipulation and numerical computation language. However its problem is that it is quite expensive, yet not very easy to use.
 
-Choices are plenty, and there must be one fitting your need. This book will focus on using Python based libraries. 
+After I graudate and face real life challenges, I regretted deeply about this choice because my favorite tool is not with me anymore. For many time, I dreamed that if I have been using Python or R in my dissertation project, I would have been a better Data Scientist now. 
+To make thing worse, even with Matlab, implementing a Churn Prediction Model is still much more challenging than doing so by Python or R. Simply by google searching, you can find way more sample codes implementing this in R or Python. For example, simply use google to search "Matlab Churn Prediction", "R Churn Prediction" or "Python Churn Prediction". You will get a good quality sample program in Python/Scikit-learn:
+* [Predicting customer churn with scikit-learn](http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html)
+
+For R you might find and like:
+* [Churn Prediction in Telecom Industry Using ](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)
+
+For Matlab, you get some documents and you still left with 70% of puzzle to put together by yourself.
+
+
 
 # Open Source vs Commercial
 Though people hear Big Data as a fuzzy word, most of times, their data value may not worth the price of a SAS, Matlab or SPSS software license. Not to mention the learning or training cost for any of those. 
 
 Market is ruthless. Because they are proprietary softwares, if they fail in competition, you are in risk of losing your competency. I know quite some old engineers who were master of Infomix, DB2, VisualBasic, etc.   On the contrary, if you master of R or Python, this tool will be with you forever.
 
-I choose only open source technologies.
+I choose only open source technologies. In the open source world, choices are plenty, and there must be one fitting your need. This book will focus on using Python based libraries. 
+
 
 # Python vs R
 First of all, R is awesome. But it's just not my type. 
