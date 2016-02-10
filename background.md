@@ -1,9 +1,10 @@
 # Background
 When starting a new mining project, the first major decision is which tool or platform to use. Starting from a wrong choice may waste quite some time. 
 
-When I was working on my PhD program, I started from Matlab. The reason was because of a project assignment from the Numerical Optimization class. No doubt that Matlab is a good matrix manipulation and numerical computation language. However its problem is that it is quite expensive, yet not very easy to use.
+When I was working on my PhD program, I started from Matlab. The reason was because of a project assignment from the Numerical Optimization class. No doubt that Matlab is a good matrix manipulation and numerical computation language. However its problem is that it is quite expensive, and yet not very easy to use.
 
-After I graudate and face real life challenges, I regretted deeply about this choice because my favorite tool is not with me anymore. For many time, I dreamed that if I have been using Python or R in my dissertation project, I would have been a better Data Scientist now. 
+After I graduated and was facing real life challenges, I regretted deeply about this choice because my favorite tool is not with me anymore. For thousands of times, I dreamed that if I have been using Python or R in my dissertation project, I would have been a better Data Scientist now. 
+
 To make thing worse, even with Matlab, implementing a Churn Prediction Model is still much more challenging than doing so by Python or R. Simply by google searching, you can find way more sample codes implementing this in R or Python. For example, simply use google to search "Matlab Churn Prediction", "R Churn Prediction" or "Python Churn Prediction". You will get a good quality sample program in Python/Scikit-learn:
 * [Predicting customer churn with scikit-learn](http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html)
 
