@@ -28,6 +28,7 @@ For Python,
 
 # Python
 There are many excellent free materials of learning Python. Here is a short list of the ones I found useful:
+* [Python Tutorial](http://www.pythondoc.com/pythontutorial3/index.html#)
 * [Quantecon Python Doc](http://quant-econ.net/py/index.html)
 
 
