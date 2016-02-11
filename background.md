@@ -10,7 +10,7 @@ To make thing worse, even with Matlab, implementing a Churn Prediction Model is 
 
 For R you might find and like:
 * [Churn Prediction in Telecom Industry Using ](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)
-
+f
 
 For Matlab, you get some documents and you still left with 70% of puzzle to put together by yourself.
 
@@ -35,6 +35,9 @@ For R, I leart quite a lot from those 2 sites:
 * [Togaware, R Docs](http://togaware.com/onepager/)
 * [Applied Predictive Modeling](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf)
 * [R Tutorial](http://www.theanalysisfactor.com/resources/by-topic/r/)
+
+Some other documents worth reading regarding R:
+* [R, the master troll of statistical languages](http://www.talyarkoni.org/blog/2012/06/08/r-the-master-troll-of-statistical-languages/)
 
 For Python, there are many excellent free materials. Here is a short list of the ones I found useful:
 * [Python Tutorial](http://www.pythondoc.com/pythontutorial3/index.html#)
