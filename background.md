@@ -14,6 +14,8 @@ f
 
 For Matlab, you get some documents and you still left with 70% of puzzle to put together by yourself.
 
+# What makes a model
+
 
 
 # Open Source vs Commercial
