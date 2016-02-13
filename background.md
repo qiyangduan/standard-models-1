@@ -41,7 +41,7 @@ After a few months, I have a feeling: *Python is for programmers and R is for st
 The battle between R and Python also reminds me something about ICT convergence. To me, ICT convergence does not seem more challenging to Telecom operators than to vendors like Huawei, Ericsson. Telecom carriers used to spend huge amount of money buying all different proprietary, *expensive* and *siloed* softwares, including sales (salesforce vs amdocs), billing ( ? vs Huawei/Ericsson), Core Network (? vs Ericsson/Huawei), etc. This was not an issue when the business was booming, since you always have new money to buy another software to cover the previous wrong deals. However, with 3G, 4G Mobile BroadBand (MBB), OTT players (facebook, Youtube) dorminanted human communication field and drained out Telco's cash flow. Then Telcos must evaluate every investment carefully. Low-cost and standard softwares come on stage finnally.
 
 
-For R, I leart quite a lot from those 2 sites:
+For R, I learnt quite a lot from those 2 sites:
 * [Togaware, R Docs](http://togaware.com/onepager/)
 * [Applied Predictive Modeling](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf)
 * [R Tutorial](http://www.theanalysisfactor.com/resources/by-topic/r/)
