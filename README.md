@@ -8,7 +8,7 @@ This book's mission is to provide one set of business problem definitions and wo
 
 I will start by a few commonly seen mining models, not to talk about a general idea how to implement, but rather providing a standard product to run the model. Please refer to https://github.com/qiyangduan/stanmo for downloading the models.
 
-If you want discuss 
+If you have issues regarding contents for any chapter, please log an issues in [Github issue page](https://github.com/qiyangduan/standard-models-1/issues).
 # What this book talks about and not talks about
 This book will focus on how to build data mining models for each business problem in various industries. 
 
