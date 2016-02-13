@@ -29,7 +29,7 @@ Only the data science team knows the strength and weakness of a model. Just like
 # Open Source vs Commercial
 Though people hear Big Data as a fuzzy word, most of times, their data value may not worth the price of a SAS, Matlab or SPSS software license. Not to mention the learning or training cost for any of those. 
 
-Market is ruthless. For those proprietary softwares, if they fail in competition, users would be in the risk of losing their competency. I know quite some old engineers who were master of Infomix, DB2, VisualBasic, etc.   On the contrary, if you master of R or Python, this tool will be with you forever.
+Market is ruthless. For those proprietary softwares, if they fail in competition, organizational users lose their supports and individual users (or developers) lose their competency. I know quite some old engineers who were master of Infomix, DB2, VisualBasic, etc.   On the contrary, if you master of R or Python, this tool will be with you forever.
 
 I choose only open source technologies. In the open source world, choices are plenty, and there must be one fitting your need. This book will focus on using Python based libraries. 
 
