@@ -23,7 +23,7 @@ To make the model live by itself in the real business environment, it must have 
 * It must have its own testing 
 * It should be able to adjust itself according to the new data. This is could be ideally done by incremental model updating or a full retraing over new datasets. 
 
-Only the data science team knows the strength and weakness of a model. Like the full stack programmer in devops, now let's work full stack to make this *live* model.  
+Only the data science team knows the strength and weakness of a model. Just like the full stack programmer in devops, now let's work full stack to make this *live* model.  
 
 
 # Open Source vs Commercial
