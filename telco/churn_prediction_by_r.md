@@ -6,15 +6,9 @@ As we summarized before in [What Makes a Model](../what_makes_a_model.md), whene
 |  A very simple training and predicting program using Decision Tree (rpart) |  [churn_dt_rpart.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_dt_rpart.r) |
 | Implement same model by Random Forest and add model persistence capabilities | [churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r)|
 | Adding RESTful web interface.  | [churn_rf_rook_json.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_rook_json.r)|
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
-
-
-* . The result is 
-* . The result is (churn_dt_rpart.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r)
-* 
-* It should be able to adjust itself according to the new data. This is could be ideally done by incremental model updating or a full retraing over new datasets. 
-* 
 
 You can download from github to run them.
+The other files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/master/churn) folder are useful data files.
 
+
+# Very simple Decision Tree to Start With
