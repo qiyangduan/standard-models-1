@@ -3,7 +3,7 @@ As we summarized before in [What Makes a Model](../what_makes_a_model.md), whene
 
 |  Functions |  Script Files |
 | -- | -- |
-|  A very simple training and predicting program using Decision Tree (rpart) | 1:[churn_dt_rpart.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_dt_rpart.r) |
+|  A very simple training and predicting program using Decision Tree (rpart) |  [churn_dt_rpart.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_dt_rpart.r) |
 | 0:3 | 1:3 |
 | 0:4 | 1:4 |
 | 0:5 | 1:5 |
