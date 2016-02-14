@@ -15,7 +15,7 @@ The files in [churn/data](https://github.com/qiyangduan/r_sample_programs/tree/m
 
 We will first implement the basic function by a commonly used algorithm CART. CART and C4.5 are the two most widely used Decision Tree algorithms. In 2006, ICDM (by Xindong Wu et. al) listed [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf). C4.5 might be a bit better. However maybe because of patent issue, CART seems more popular in R world. So I chose CART for this simple test.
 
-I use Caret package in this test. It wrapped up many packages and created a unified interface. This is really useful for R users, because each model in R is implemented with very different APIs and user interfaces. 
+I use Caret package in this test. It wrapped up [many packages](http://topepo.github.io/caret/modelList.html) and created a unified interface. This is really useful for R users, because each model in R is implemented with very different APIs and user interfaces. 
 Without this unification, the data scientists have memorize all different API. I guess this inconvinience drove some of the R users to the Python side. Scikit-learn, for example, have very clean and consistent API for all algorithms. We will see that in the Python Churn model chapter.
 
 To run the program, you first change file locations to your downloaded files:
