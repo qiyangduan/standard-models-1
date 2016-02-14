@@ -43,11 +43,14 @@ train_data=churn_data[,!(names(churn_data) %in% drops)]
 2           OH           107        415                           no
 3           NJ           137        415                           ```
 
-Traing the model in R is as simple as a single line. I believe this is why R is so loved by most of statisticians.  This model will later be saved onto the disk for future prediction usage.
+Traing the model in R is as simple as a single line. I believe this is why R is so loved by most of statisticians.  This model will later be saved onto the disk for future prediction usage. 
 
 ```r
-churn_model <- train(X_churn_flag~., method="rpart",data=train_data) 
-... More code ...
+churn_model <- train(X_churn_flag~., method="rpart",data=train_data) ... More code ...
+```
+
+
+```r
 apply.predicted<-predict(churn_model,newdata=apply_data)
 > table(apply.predicted,apply_data$X_churn_flag)
 apply.predicted  F  T
