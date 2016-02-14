@@ -46,8 +46,7 @@ train_data=churn_data[,!(names(churn_data) %in% drops)]
 Traing the model in R is as simple as a single line. I believe this is why R is so loved by most of statisticians.  This model will later be saved onto the disk for future prediction usage. 
 
 ```r
-churn_model <- train(X_churn_flag~., method="rpart",data=train_data) 
-```
+churn_model <- train(X_churn_flag~., method="rpart",data=train_data) ```
 We then load from another group of customer profiles with only 50 rows for testing. The variable apply.predicted will contain the prediction churn result. This can be offloaded as csv file for further processing.
 
 As you may see, the accuracy is quite disappointing. Only about 12.5% accuracy.
@@ -65,6 +64,13 @@ apply.predicted  F  T
 
 Every year KDD acquires a different kinds of dataset and present a new challenge to the data miners. It is the [KDD Cup](http://www.kdd.org/kdd-cup). In 2009, KDD presented the anonymized [customer profile from Orange](http://www.kdd.org/kdd-cup/view/kdd-cup-2009/Data) and ask participants to predict who is going to churn. This is exactly the problem we are talking about. At the end, Random Forest became the winning algorithms. Check [this](http://jmlr.csail.mit.edu/proceedings/papers/v7/niculescu09/niculescu09.pdf) for more details. In fact, most of the top 10 winners are using certain sorts of Random Forest. Since then, the Random Forest became the No.1 choice for predicting churn, and maybe for other lots of classifications as well.
 
+To use Random Forest instead of CART, we still change this line of code:
+```r
+churn_model <- train(X_churn_flag~., method="rpart",data=train_data) ```
 
-
+to:
+```r
+churn_model <- train(X_churn_flag~., method="ranger",data=train_data) 
+```
+All the rest of code remains exactly same, thanks to Caret package.
 
