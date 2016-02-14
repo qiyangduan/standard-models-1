@@ -25,7 +25,7 @@ apply_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\
 train_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\static\\data\\churn_sample_input.csv"
 ```
 
-Then the first step is to read in the files and do some quick transformation. The loaded data train_data contains over 400 rows. In original dataset, 1 standars for Churner and 0 stands for non-churner. 
+Then the first step is to read in the files and do some quick transformation. The loaded data train_data contains over 400 rows. In the original dataset, 1 standars for Churner and 0 stands for non-churner. 
 
 ```r
 churn_data = read.csv(train_file, fill = TRUE) # 1 column
