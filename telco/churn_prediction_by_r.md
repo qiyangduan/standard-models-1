@@ -14,9 +14,10 @@ The other files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/
 # Very simple Decision Tree to Start With
 
 
-
-> head(train_data,3)
+'''r
+\> head(train_data,3)
   X_state_code X_tenure_days X_zip_code X_international_roaming_flag
 1           KS           128        415                           no
 2           OH           107        415                           no
 3           NJ           137        415                           no
+'''
