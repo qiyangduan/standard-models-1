@@ -5,7 +5,7 @@ As we summarized before in [What Makes a Model](../what_makes_a_model.md), whene
 | -- | -- |
 |  A very simple training and predicting program using Decision Tree (rpart) |  [churn_dt_rpart.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_dt_rpart.r) |
 | Implement same model by Random Forest and add model persistence capabilities | [churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r)|
-| Adding RESTful web interface.  | [churn_rf_rook_json.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_rook_json.r)|
+| Adding RESTful web interface over saved the model from [churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r).  | [churn_rf_rook_json.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_rook_json.r)|
 
 You can download from github to run them.
 The other files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/master/churn) folder are useful data files.
@@ -13,7 +13,7 @@ The other files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/
 
 # Very simple Decision Tree to Start With
 
-
+We will first implement the basic function by 
 ```r
 \> head(train_data,3)
   X_state_code X_tenure_days X_zip_code X_international_roaming_flag
