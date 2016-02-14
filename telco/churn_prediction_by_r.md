@@ -72,7 +72,14 @@ to:
 ```r
 churn_model <- train(X_churn_flag~., method="ranger",data=train_data) 
 ```
-All the rest of code remains exactly same, thanks to Caret package. Finally, 
+All the rest of code remains exactly same, thanks to Caret package. Finally, you can see the new prediction accuracy:
+```r
+> table(apply.predicted,apply_data$X_churn_flag)
+               
+apply.predicted  F  T
+              F 41  4
+              T  0  4
+```
 
 
 You can simplly run program ([churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r)) to see this magic.
