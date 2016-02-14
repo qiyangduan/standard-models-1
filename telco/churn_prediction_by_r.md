@@ -61,6 +61,6 @@ apply.predicted  F  T
               
 ```
 
-# Using Random Forest for reconstruction
+# Using Random Forest for Reconstruction
 
 In 
