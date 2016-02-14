@@ -63,7 +63,7 @@ apply.predicted  F  T
 
 # Using Random Forest for Reconstruction
 
-Every year KDD acquires a different kinds of dataset and present a new challenge to the data miners. It is the [KDD Cup](http://www.kdd.org/kdd-cup). In 2009, KDD presented the anonymized [customer profile from Orange](http://www.kdd.org/kdd-cup/view/kdd-cup-2009/Data) and ask participants to predict who is going to churn. This is exactly the problem we are talking about. At the end, Random Forest became the [winning algorithms](http://jmlr.csail.mit.edu/proceedings/papers/v7/niculescu09/niculescu09.pdf). Check this for more details. In fact, most of the top 10 winners are using certain sorts of Random Forest. Since then, the Random Forest became the No.1 choice for predicting churn, and maybe for other lots of classifications as well.
+Every year KDD acquires a different kinds of dataset and present a new challenge to the data miners. It is the [KDD Cup](http://www.kdd.org/kdd-cup). In 2009, KDD presented the anonymized [customer profile from Orange](http://www.kdd.org/kdd-cup/view/kdd-cup-2009/Data) and ask participants to predict who is going to churn. This is exactly the problem we are talking about. At the end, Random Forest became the winning algorithms. Check [this](http://jmlr.csail.mit.edu/proceedings/papers/v7/niculescu09/niculescu09.pdf) for more details. In fact, most of the top 10 winners are using certain sorts of Random Forest. Since then, the Random Forest became the No.1 choice for predicting churn, and maybe for other lots of classifications as well.
 
 
 
