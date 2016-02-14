@@ -7,8 +7,8 @@ As we summarized before in [What Makes a Model](../what_makes_a_model.md), whene
 | Implement same model by Random Forest and add model persistence capabilities | [churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r)|
 | Adding RESTful web interface over saved the model from [churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r).  | [churn_rf_rook_json.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_rook_json.r)|
 
-You can download all those scripts from github repository [r_sample_programs](https://github.com/qiyangduan/r_sample_programs) for your testing.
-The other files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/master/churn) folder are useful data files.
+You can download all those scripts from github repository [r_sample_programs](https://github.com/qiyangduan/r_sample_programs) for your testing. Once you get into the repository, click "Download ZIP" button to download all files.
+The files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/master/churn) folder are the data files used by scripts.
 
 
 # Very simple Decision Tree to Start With
@@ -16,7 +16,8 @@ The other files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/
 We will first implement the basic function by a commonly used algorithm CART. CART and C4.5 are the two most widely used Decision Tree algorithms. In 2006, ICDM (by Xindong Wu et. al) listed [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf). C4.5 might be a bit better. However maybe because of patent issue, CART seems more popular in R world. So I chose CART for this simple test.
 
 
-To run the program, you first 
+To run the program, you first change file locations to your downloaded files:
+
 ```r
 \> head(train_data,3)
   X_state_code X_tenure_days X_zip_code X_international_roaming_flag
