@@ -48,7 +48,7 @@ Traing the model in R is as simple as a single line. I believe this is why R is 
 ```r
 churn_model <- train(X_churn_flag~., method="rpart",data=train_data) ... More code ...
 ```
-We then load from 
+We then load from another group of customer profiles with only 50 rows for testing. As you may see, the accuracy is quite disappointing. Only about 12.5% accuracy.
 
 ```r
 apply.predicted<-predict(churn_model,newdata=apply_data)
