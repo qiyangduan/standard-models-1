@@ -74,3 +74,4 @@ churn_model <- train(X_churn_flag~., method="ranger",data=train_data)
 ```
 All the rest of code remains exactly same, thanks to Caret package.
 
+# Add the 
