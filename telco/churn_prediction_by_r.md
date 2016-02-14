@@ -72,5 +72,8 @@ to:
 ```r
 churn_model <- train(X_churn_flag~., method="ranger",data=train_data) 
 ```
-All the rest of code remains exactly same, thanks to Caret package. You can simplly run program ()
+All the rest of code remains exactly same, thanks to Caret package. Finally, 
+
+
+You can simplly run program ([churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r)) to see this magic.
 # Add the 
