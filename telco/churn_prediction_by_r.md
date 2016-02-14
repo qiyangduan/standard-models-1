@@ -15,7 +15,7 @@ The files in [churn/data](https://github.com/qiyangduan/r_sample_programs/tree/m
 
 We will first implement the basic function by a commonly used algorithm CART. CART and C4.5 are the two most widely used Decision Tree algorithms. In 2006, ICDM (by Xindong Wu et. al) listed [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf). C4.5 might be a bit better. However maybe because of patent issue, CART seems more popular in R world. So I chose CART for this simple test.
 
-
+I use Caret 
 To run the program, you first change file locations to your downloaded files:
 
 ```r
@@ -23,12 +23,28 @@ apply_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\
 train_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\static\\data\\churn_sample_input.csv"
 ```
 
-
-
+Then the first step is to read in the files and do some quick transformation. 
 
 ```r
+churn_data = read.csv(train_file, fill = TRUE) # 1 column
+# Convert 1/0 to T/F since Caret do regression instead of classification over numerical values
+churn_data[churn_data$X_churn_flag == 1,]$X_churn_flag = "T"
+churn_data[churn_data$X_churn_flag == 0,]$X_churn_flag = "F"
+# drop customer id column, because it is the unique ID and should not be treated as a feature
+drops <- c("X_customer_id")
+train_data=churn_data[,!(names(churn_data) %in% drops)]
+
+
 \> head(train_data,3)
   X_state_code X_tenure_days X_zip_code X_international_roaming_flag
 1           KS           128        415                           no
 2           OH           107        415                           no
 3           NJ           137        415                           ```
+
+Traing the model in R is as simple as a single line. I believe this is why R is so loved by most of statisticians.  This model will later be saved onto the disk for future prediction usage.
+
+```r
+churn_model <- train(X_churn_flag~., method="rpart",data=train_data) ```
+
+
+
