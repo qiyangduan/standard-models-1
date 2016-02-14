@@ -25,7 +25,7 @@ apply_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\
 train_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\static\\data\\churn_sample_input.csv"
 ```
 
-Then the first step is to read in the files and do some quick transformation. 
+Then the first step is to read in the files and do some quick transformation. The loaded data train_data contains over 400 rows.
 
 ```r
 churn_data = read.csv(train_file, fill = TRUE) # 1 column
@@ -48,7 +48,7 @@ Traing the model in R is as simple as a single line. I believe this is why R is 
 ```r
 churn_model <- train(X_churn_flag~., method="rpart",data=train_data) ... More code ...
 ```
-We then 
+We then load from 
 
 ```r
 apply.predicted<-predict(churn_model,newdata=apply_data)
