@@ -18,7 +18,7 @@ We will first implement the basic function by a commonly used algorithm CART. CA
 I use Caret package in this test. It wrapped up [many packages](http://topepo.github.io/caret/modelList.html) and created a unified interface. This is really useful for R users, because each model in R is implemented with very different APIs and user interfaces. 
 Without this unification, the data scientists have memorize all different API. I guess this inconvenience drove some of the R users to the Python side. Scikit-learn, for example, have very clean and consistent API (fit, predict, transform) for all algorithms. We will see that in the Python Churn model chapter.
 
-To run the program, you first change file locations to your downloaded files:
+To run the program ([churn_dt_rpart.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_dt_rpart.r)), you first change file locations to your downloaded files:
 
 ```r
 apply_file = "C:\\qduan\\Stanmo\\git\\bitbucket\\src\\stanmo_website_proj\\app\\static\\data\\churn_sample_apply.csv"
