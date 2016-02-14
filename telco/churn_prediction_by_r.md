@@ -8,7 +8,7 @@ As we summarized before in [What Makes a Model](../what_makes_a_model.md), whene
 | Adding RESTful web interface over saved the model from [churn_rf_ranger.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_ranger.r).  | [churn_rf_rook_json.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_rook_json.r)|
 
 You can download all those scripts from github repository [r_sample_programs](https://github.com/qiyangduan/r_sample_programs) for your testing. Once you get into the repository, click "Download ZIP" button to download all files.
-The files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/master/churn) folder are the data files used by scripts.
+The files in [churn](https://github.com/qiyangduan/r_sample_programs/tree/master/churn) folder are the data files used by the scripts.
 
 
 # Very simple Decision Tree to Start With
