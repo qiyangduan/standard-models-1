@@ -96,12 +96,7 @@ There seems to be a few choices to integrate R models into a modern web applicat
 
 Using Rook, we create a RESTful webservice to acception prediction request in JSON format and return R predictions in JSON again. You can run file [churn_rf_rook_json.r](https://github.com/qiyangduan/r_sample_programs/blob/master/churn/churn_rf_rook_json.r) to try it. 
 
-When you execute the program(churn_rf_rook_json.r) in R console, at the end, it should automatically open a web browser showing this page:
-![Initial page of R web service ](https://raw.githubusercontent.com/qiyangduan/standard-models-1/master/img/rook_r_json_init_page_1.png)
-
-This initial page will accept the json request and post to the real API. This page will issue the HTTP POST request and display the result:
-
-At the R console you should see those output:
+You can paste all the lines into R console to execute. At the end, you should see those output:
 ```r
 > R.server$start()
 starting httpd help server ... done
@@ -114,6 +109,17 @@ Server started on host 127.0.0.1 and port 25046 . App urls are:
 ```        
 
 Now **'/custom/churn_json'** is our API, and you can point your client application to this URL and post the json content.
+
+
+When you execute the program(churn_rf_rook_json.r) in R console, at the end, it should automatically open a web browser showing this page:
+![Initial page of R web service ](https://raw.githubusercontent.com/qiyangduan/standard-models-1/master/img/rook_r_json_init_page_1.png)
+
+This initial page will accept the json request and post to the real API. This page will issue the HTTP POST request and display the result:
+```r
+[{"X_customer_id":"duan","predicted_churn_flag":"F"},{"X_customer_id":"Qiyang","predicted_churn_flag":"F"}]
+```
+
+Your client application should now parse this by your own languages and libraries and do the rest.
 
 
 The magic of serving R prediction to web service happens in a small function write.json_churn.HTML:
@@ -143,10 +149,3 @@ In this function,  we parse the JSON string into a data frame by jsonlite packag
         response$write(toJSON(result_df))
         
 ```
-
-At the end, you will see a result like this:
-```r
-[{"X_customer_id":"duan","predicted_churn_flag":"F"},{"X_customer_id":"Qiyang","predicted_churn_flag":"F"}]
-```
-
-Your client application should now parse this by your own languages and libraries and do the rest.
