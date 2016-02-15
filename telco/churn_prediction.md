@@ -3,7 +3,10 @@
 
 ## Business Problem
 
+## Related Work
 ## Different Solutions
+### Simple Prediction over BSS Customer Profiles
+### Customer Experience 
 
 ## Churn Prediction by Random Forest
 
