@@ -14,9 +14,9 @@ There may be minor differences of defining a churner in different operators. For
 Those are the common reasons of churning:
 * Customer is unhappy about the previous service provider
 * Customer need a new handset.
-* Interested with competitor's promotion offer
+* Customer is interested with competitor's promotion offer
 * Contract expired
-
+* 
 
 We can build a handset life cycle model to calculate new handset opportunity.
 
