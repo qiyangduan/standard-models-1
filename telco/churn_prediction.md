@@ -39,7 +39,7 @@ All those said, the most important step is how to predict who is going to churn.
 ### Simple Prediction over BSS Customer Profiles
 ### Customer Experience 
 ### Social interaction features
-
+### Deep learning to improve accuracy
 ### We can build a handset life cycle model to calculate new handset opportunity.
 
 ## Churn Prediction by Random Forest
