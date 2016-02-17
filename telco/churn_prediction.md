@@ -1,5 +1,7 @@
 # Churn Prediction
-
+Churn management seems to be an eternal business problem for most of Telecom operators.  Normally we see higher churn rate for prepaid business than for postpaid business. Developing countries also observe higher churn rate  
+, especially for prepaid mobile business.
+According to this blog, 
 
 ## Business Problem
 
