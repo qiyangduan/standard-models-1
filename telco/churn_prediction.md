@@ -37,6 +37,7 @@ All those said, the most important step is how to predict who is going to churn.
 Before diving into our solution, let's take a look what's out there. You may find it odd enough that given such a long-standing problem and standard techniques of solving it, no good enough  application has been made to tackle this problem. Those are the solutions I can find so far. The first list would be from some commercial vendors.
 ### SAS Miner
 
+Junxiang Lu showed a typical process how to predict churners 
 * SAS - This [paper](http://www2.sas.com/proceedings/sugi27/p114-27.pdf) showed a typical processing of solving churn by SAS tech stack.
 * 
 
