@@ -9,10 +9,11 @@ According to this [blog](http://ipcarrier.blogspot.tw/2015/07/based-on-its-churn
 Losing customer means huge lost of monthly subscription income. Also operators have to spend more money to win back new customers. Therefore, a good churn management solution is very important to every telecom operator.
 
 ## Business Problem
-Different operators may define churn according to different criteria. For example one operator may treat those prepaid subscribeer who did not use the service for 3 months as already churned. Another 
-Reasons of churning:
-* Customer need a new handset.
+There may be minor differences of defining a churner in different operators. For example one operator may treat those prepaid subscribers who did not use the service for 3 months as already churned. Another operator may define only those who canceled services as churned. You may simply choose a definition consistent to your organization.
+
+Those are the common reasons of churning:
 * Customer is unhappy about the previous service provider
+* Customer need a new handset.
 * Interested with competitor's promotion offer
 * Contract expired
 
