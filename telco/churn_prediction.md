@@ -5,6 +5,15 @@ According to this blog,
 
 ## Business Problem
 
+Reasons of churning:
+* Customer need a new handset.
+* Customer is unhappy about the previous service provider
+* Interested with competitor's promotion offer
+* Contract expired
+
+
+We can build a handset life cycle model to calculate new handset opportunity.
+
 ## Related Work
 
 ## Different Solutions
