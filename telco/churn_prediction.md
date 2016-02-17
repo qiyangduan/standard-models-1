@@ -1,7 +1,12 @@
 # Churn Prediction
-Churn management seems to be an eternal business problem for most of Telecom operators.  Normally we see higher churn rate for prepaid business than for postpaid business. Developing countries also observe higher churn rate than developed countries.  
+Churn management seems to be an eternal business problem for most of Telecom operators.  When a subscriber terminate the current service, we call it him a churner. 
 
+Normally we see higher churn rate for prepaid business than for postpaid business. Developing countries also observe higher churn rate than developed countries.  
 According to this [blog](http://ipcarrier.blogspot.tw/2015/07/based-on-its-churn-rates-netflix-is-way.html),  even in developed countries like USA, monthly churn rate could go up to 5%. This means that each year, Sprint lose half of all its prepaid subscribers.
+
+![Churn Stats](https://lh3.googleusercontent.com/H4kvIvyq-XldLz0jwFKYP4mbyiORZ3tOqkFplxwji1LyWAyTyaqha5LKhPzj5oGVc_G5FbeY8peZJueiMI-mf11-hCZCwPMBnjpzBjGDSefll-bSfs_bqikJIof_kIhCb3zeNmY)
+
+Losing customer means huge lost of monthly subscription income. Also operators have to spend more money to win back new customers. Therefore, a good churn management solution is very important to every telecom operator.
 
 ## Business Problem
 
