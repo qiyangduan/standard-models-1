@@ -38,6 +38,7 @@ All those said, the most important step is how to predict who is going to churn.
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
 ### Customer Experience 
+### Social interaction features
 
 ### We can build a handset life cycle model to calculate new handset opportunity.
 
