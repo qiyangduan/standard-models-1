@@ -16,7 +16,16 @@ Those are the common reasons of churning:
 * Customer need a new handset.
 * Customer is interested with competitor's promotion offer
 * Contract expired
-* 
+
+Corresponding to those different reasons, subscribers may show certain patterns before they churn:
+* Customer may call service center to complain about the service.
+* Customer has been using the current handset for over two years, and most users with similar model use it only for 1.5 years.
+* Customer has call competitors service center hotline several times.
+* Customer's contract has only 60 years left.
+
+All those information can be extracted from either CRM customer profile or from historical usage data. We call those information the features.
+
+With those features and a few data mining algorithms, we can actually predict who will going to churn in next a few months. Then we can take some proactive actions to prevent customer from actual churning. This is the goal of churn management solution. If 
 
 We can build a handset life cycle model to calculate new handset opportunity.
 
