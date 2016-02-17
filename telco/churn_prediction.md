@@ -26,7 +26,7 @@ Corresponding to those different reasons, subscribers may show certain patterns 
 All those information can be extracted from either CRM customer profile or from historical usage data. We call those information the features.
 
 With those features and a few data mining algorithms, we can actually predict who will going to churn in next a few months. Then we can take some proactive actions to prevent customer from actual churning. This is the goal of all churn management solutions. If we can predict who will churn, certain retention actions may be applied:
-* Give a special discount to attract customers to sign a new contract with new handset. For example,  normally iphone is sold at $199 for 2 year contract. If we know that customer is looking for new handset and may churn, we can give 15% discount and sell only for $169 for 2 years contract. 
+* Give a special discount to attract customers into a new contract with new handset. For example,  normally iphone is sold at $199 for 2 year contract. If we know that customer is looking for new handset and may churn, we can give 15% discount and sell only for $169 for 2 years contract. 
 * Pre-deposit and big bonus for exchange of 2 years commitment. We can also launch targeted promotion to only those potential churners, in which if they pre-deposit $100 they can get additional $100 in their account. Meanwhile customer must commit to another 1 or 2 years subscription.
 * Give certain low-cost services for free, like email service, ring back tones (RBT), musci, video acess, etc.
 
