@@ -34,7 +34,7 @@ With those features and a few data mining algorithms, we can actually predict wh
 All those said, the most important step is how to predict who is going to churn. 
 
 ## Related Work
-
+Before diving into our solution, let's take a look what's out there. You may find it odd enough that 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
 ### Customer Experience 
