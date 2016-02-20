@@ -63,7 +63,7 @@ There are a few papers available about using SAS to prediction the Churners. Jun
 - Frequent traveler
 - Responder to mail orders
 - Dwelling and length of residence 
-- 
+
 
 
 
