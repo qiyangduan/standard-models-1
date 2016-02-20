@@ -51,7 +51,7 @@ As part of a suite of Telecommunications solutions, SAS provided those solutions
 * SAS Payment Risk for Telecommunications
 * SAS Customer Profitability for Telecommunications
 
-There are a few papers available about using SAS to prediction the Churners. Junxiang Lu et.al. showed a typical process how to predict churners ([paper](http://www2.sas.com/proceedings/sugi27/p114-27.pdf) ) .  The code in this paper can be used to build a very simple offline churn model in SAS miner. Also this papers listed this most important features used during the churn prediction:
+There are a few papers available about using SAS to prediction the Churners. Junxiang Lu et.al. showed a typical process how to predict churners ([Predicting Customer Churn in the Telecommunications Industry –– An Application of Survival Analysis Modeling Using SAS](http://www2.sas.com/proceedings/sugi27/p114-27.pdf) ) .  The code in this paper can be used to build a very simple offline churn model in SAS miner. Also this papers listed this most important features used during the churn prediction:
 - Primary household member’s age
 - Gender and marital status
 - Number of adults
