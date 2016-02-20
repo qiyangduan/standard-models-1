@@ -81,6 +81,7 @@ You may also find lots standard brochures like
 ### Customer Experience 
 ### Telecom Social Circle features
 ### Social Media Usage
+Like what IBM proposed.
 ### Deep learning to improve accuracy
 ### Handset life cycle prediction
 We can build a handset life cycle model to calculate new handset opportunity.
