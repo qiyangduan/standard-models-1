@@ -64,6 +64,9 @@ There are a few papers available about using SAS to prediction the Churners. Jun
 - Responder to mail orders
 - Dwelling and length of residence 
 
+Carmelina Collado et al summarized their experience of implementation project using SAS Churn solution ( in 
+[Implementation of a Customer Retention, Cross-Sell, Up-Sell and Payment Risk Solution using SAS Telecommunications Intelligence Solutions for Orange Dominicana](http://www2.sas.com/proceedings/forum2008/122-2008.pdf)). You may find some project management information for planning a similar project in this paper, but not much technical details are revealed.
+
 
 
 ## Different Solutions
