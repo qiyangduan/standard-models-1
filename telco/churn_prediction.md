@@ -66,10 +66,6 @@ There are a few papers available about using SAS to prediction the Churners. Jun
 
 
 
-
-
-
-
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
 ### Customer Experience 
