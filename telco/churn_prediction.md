@@ -41,7 +41,7 @@ SAS miner is the world leading commercial data mining tool according to the Garn
 
 ![Gartner Data Mining](http://www.kdnuggets.com/em/gartner-2014-mq-advanced-analytics.jpg)
 
-SAS's core value is in those algorithms. However, along those years of implementing models for Telecom Industry, SAS did accumulate some domain knowledge and build a few models. 
+SAS's core value is in those algorithms. However, along those years of implementing models for Telecom Industry, SAS did accumulate some domain knowledge and built a few models. 
 As part of a suite of Telecommunications solutions, SAS provided those solutions:
 * SAS Customer Retention for Telecommunications
 * SAS Strategic Performance Management for Telecommunications
@@ -51,10 +51,8 @@ As part of a suite of Telecommunications solutions, SAS provided those solutions
 * SAS Payment Risk for Telecommunications
 * SAS Customer Profitability for Telecommunications
 
-
-
-
-
+There are a few papers available about using SAS to prediction the Churners. Junxiang Lu et.al. showed a typical process how to predict churners ([paper](http://www2.sas.com/proceedings/sugi27/p114-27.pdf) ) .  The code in this paper  can be used to build a very simple code using SAS
+* 
 
 In this study, the following are examples of
 customer level demographic information:
@@ -71,9 +69,7 @@ customer level demographic information:
 - Dwelling and length of residence 
 - 
 
-Junxiang Lu showed a typical process how to predict churners 
-* SAS - This [paper](http://www2.sas.com/proceedings/sugi27/p114-27.pdf) showed a typical processing of solving churn by SAS tech stack.
-* 
+
 
 
 
