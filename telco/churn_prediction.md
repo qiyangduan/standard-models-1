@@ -79,7 +79,8 @@ You may also find lots standard brochures like
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
 ### Customer Experience 
-### Social interaction features
+### Telecom Social Circle features
+### Social Media Usage
 ### Deep learning to improve accuracy
 ### Handset life cycle prediction
 We can build a handset life cycle model to calculate new handset opportunity.
