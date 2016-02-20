@@ -68,8 +68,11 @@ Carmelina Collado et al summarized their experience of implementation project us
 [Implementation of a Customer Retention, Cross-Sell, Up-Sell and Payment Risk Solution using SAS Telecommunications Intelligence Solutions for Orange Dominicana](http://www2.sas.com/proceedings/forum2008/122-2008.pdf)). You may find some project management information for planning a similar project in this paper, but not much technical details are revealed.
 
 ### IBM mining solutions
-IBM acquired SPSS at 2009 and built its mining capability around SPSS offering. 
-The best I can find would be some marketing brochure like [this](ftp://public.dhe.ibm.com/software/data/sw-library/spss/IBM_SPSS_Telco_Churn_datasheet.pdf). Not much useful.
+IBM acquired SPSS at 2009 and built its mining capability around SPSS offering. IBM did not seem to wrap up churn solution the way SAS did, but they provided some good insight about how to leverage social media to tackle the churn problem.
+
+
+You may also find lots standard brochures like
+[this](ftp://public.dhe.ibm.com/software/data/sw-library/spss/IBM_SPSS_Telco_Churn_datasheet.pdf) regarding those commercial software, but they are not much useful.
 
 
 
