@@ -69,7 +69,8 @@ Carmelina Collado et al summarized their experience of implementation project us
 
 ### IBM mining solutions
 IBM acquired SPSS at 2009 and built its mining capability around SPSS offering. 
-The best I can find would be some marketing brochure like [this](ftp://public.dhe.ibm.com/software/data/sw-library/spss/IBM_SPSS_Telco_Churn_datasheet.pdf).
+The best I can find would be some marketing brochure like [this](ftp://public.dhe.ibm.com/software/data/sw-library/spss/IBM_SPSS_Telco_Churn_datasheet.pdf). Not much useful.
+
 
 
 ## Different Solutions
