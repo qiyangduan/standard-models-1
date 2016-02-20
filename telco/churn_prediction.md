@@ -35,11 +35,45 @@ All those said, the most important step is how to predict who is going to churn.
 
 ## Related Work
 Before diving into our solution, let's take a look what's out there. You may find it odd enough that given such a long-standing problem and standard techniques of solving it, no good enough  application has been made to tackle this problem. Those are the solutions I can find so far. The first list would be from some commercial vendors.
-### SAS Miner
+
+### SAS Miner and Telecom solutions
+SAS miner is the world leading commercial data mining tool according to the garnter report. SAS's value is 
+
+Enterprise Intelligence platform. Also, part of a suite of Telecommunications solutions, which include:
+* SAS Customer Retention for Telecommunications
+* SAS Strategic Performance Management for Telecommunications
+* SAS Campaign Management for Telecommunications
+* SAS Customer Segmentation for Telecommunications
+* SAS Cross-Sell and Up-Sell for Telecommunications
+* SAS Payment Risk for Telecommunications
+* SAS Customer Profitability for Telecommunications
+
+
+
+![Gartner Data Mining](http://www.kdnuggets.com/em/gartner-2014-mq-advanced-analytics.jpg)
+
+
+In this study, the following are examples of
+customer level demographic information:
+- Primary household member’s age
+- Gender and marital status
+- Number of adults
+- Primary household member’s occupation
+- Household estimated income and wealth ranking
+- Number of children and children’s age
+- Number of vehicles and vehicle value
+- Credit card
+- Frequent traveler
+- Responder to mail orders
+- Dwelling and length of residence 
+- 
 
 Junxiang Lu showed a typical process how to predict churners 
 * SAS - This [paper](http://www2.sas.com/proceedings/sugi27/p114-27.pdf) showed a typical processing of solving churn by SAS tech stack.
 * 
+
+
+
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
