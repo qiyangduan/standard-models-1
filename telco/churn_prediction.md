@@ -37,9 +37,12 @@ All those said, the most important step is how to predict who is going to churn.
 Before diving into our solution, let's take a look what's out there. You may find it odd enough that given such a long-standing problem and standard techniques of solving it, no good enough  application has been made to tackle this problem. Those are the solutions I can find so far. The first list would be from some commercial vendors.
 
 ### SAS Miner and Telecom solutions
-SAS miner is the world leading commercial data mining tool according to the garnter report. SAS's value is 
+SAS miner is the world leading commercial data mining tool according to the Garnter report. 
 
-Enterprise Intelligence platform. Also, part of a suite of Telecommunications solutions, which include:
+![Gartner Data Mining](http://www.kdnuggets.com/em/gartner-2014-mq-advanced-analytics.jpg)
+
+SAS's core value is in those algorithms. However, along those years of implementing models for Telecom Industry, SAS did accumulate some domain knowledge and build a few models. 
+As part of a suite of Telecommunications solutions, SAS provided those solutions:
 * SAS Customer Retention for Telecommunications
 * SAS Strategic Performance Management for Telecommunications
 * SAS Campaign Management for Telecommunications
@@ -50,7 +53,7 @@ Enterprise Intelligence platform. Also, part of a suite of Telecommunications so
 
 
 
-![Gartner Data Mining](http://www.kdnuggets.com/em/gartner-2014-mq-advanced-analytics.jpg)
+
 
 
 In this study, the following are examples of
