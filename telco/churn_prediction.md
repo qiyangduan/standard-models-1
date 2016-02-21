@@ -85,7 +85,10 @@ R is open source, free and good. Most of job by SAS can also be done by R. If it
 There are some papers about how to predict churners in R. The solutions using R looks more like academic papers since R users are mostly Statisticians. So I would cite them in the academic way:   
 * Kaur, Manpreet, and Dr Prerna Mahajan. "[Churn Prediction in Telecom Industry Using R.](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)" International Journal of Engineering and Technical Research (IJETR) ISSN: 2321-0869.
 
+### Microsoft
+Microsoft is not a big player in data mining domain. However, Afaq Alam Khan published 
 
+One thing worth mentioning is that Microsoft acquired Revolution. 
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
