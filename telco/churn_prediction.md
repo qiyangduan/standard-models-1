@@ -93,7 +93,9 @@ Though this paper used Microsoft Mining as the tool, the general steps about how
 
 One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Microsoft would have stronger presence in this domain. 
 ### Other Mining Tools
-[MiningMart](http://mmart.cs.uni-dortmund.de/research/index.html) seems to be a research project and can be [downloaded](https://sourceforge.net/projects/miningmart/) from Sourceforge.  Telecom Italy used MiningMart to solve the churn problem([paper](http://www-ai.cs.uni-dortmund.de/PublicPublicationFiles/richeldi_perrucci_2002b.pdf)[slides](http://www-ai.cs.uni-dortmund.de/MMWEB/downloads/presentations/OneDaySeminar/pdf/MMartSeminarFeb03_TILAB.pdf). The paper provided very detailed information how to create a mining model. 
+[MiningMart](http://mmart.cs.uni-dortmund.de/research/index.html) seems to be a research project and can be [downloaded](https://sourceforge.net/projects/miningmart/) from Sourceforge.  MiningMart also provided a business mining model library called [MiningMart Case Base](http://mmart.cs.uni-dortmund.de/caseBase/index.html), including Churn, Sales Analysis and Targeted Promotion (call center NIT).
+
+Telecom Italy used MiningMart to solve the churn problem([paper](http://www-ai.cs.uni-dortmund.de/PublicPublicationFiles/richeldi_perrucci_2002b.pdf)[slides](http://www-ai.cs.uni-dortmund.de/MMWEB/downloads/presentations/OneDaySeminar/pdf/MMartSeminarFeb03_TILAB.pdf). The paper provided very detailed information how to create a mining model. 
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
