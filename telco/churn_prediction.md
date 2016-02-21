@@ -98,6 +98,7 @@ One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Micro
 
 Telecom Italy used MiningMart to solve the churn problem([paper](http://www-ai.cs.uni-dortmund.de/PublicPublicationFiles/richeldi_perrucci_2002b.pdf)[slides](http://www-ai.cs.uni-dortmund.de/MMWEB/downloads/presentations/OneDaySeminar/pdf/MMartSeminarFeb03_TILAB.pdf). The paper provided very detailed information how to create a mining model. 
 
+
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
 ### Customer Experience 
