@@ -71,6 +71,7 @@ Carmelina Collado et al summarized their experience of implementation project us
 IBM acquired SPSS at 2009 and built the modern mining capability around SPSS offering. IBM did not seem to wrap up churn solution the way SAS did, but they provided some good insight about how to leverage social media to tackle the churn problem in this paper ([Minimize customer churn with analytics](http://www.targetmarketingmag.com/promo/minimizecustomerchurn.pdf))
 
 Before SPSS acquisition, IBM was selling the DB2 Miner. At 2001, IBM published a [redbook](http://www.amazon.com/Mining-Business-Telecoms-Intelligent-Redbooks/dp/0738422967) regarding how to deal with Telecom business problems with DB2 miner. 
+
 You may also find lots standard brochures like
 [this](ftp://public.dhe.ibm.com/software/data/sw-library/spss/IBM_SPSS_Telco_Churn_datasheet.pdf) regarding those commercial software, but those are not much useful.
 
