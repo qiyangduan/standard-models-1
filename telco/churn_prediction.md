@@ -79,6 +79,10 @@ Before SPSS acquisition, IBM was selling the DB2 Miner. At 2001, IBM published a
 You may also find lots standard brochures like
 [this](ftp://public.dhe.ibm.com/software/data/sw-library/spss/IBM_SPSS_Telco_Churn_datasheet.pdf) regarding those commercial software, but those are not much useful.
 
+### R
+R is open source, free and good. Also, the solutions using R looks more like academic papers. So I would cite them in academic way:   
+Kaur, Manpreet, and Dr Prerna Mahajan. "[Churn Prediction in Telecom Industry Using R.](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)" International Journal of Engineering and Technical Research (IJETR) ISSN: 2321-0869.
+
 
 
 ## Different Solutions
