@@ -82,7 +82,7 @@ You may also find lots standard brochures like
 ### R
 R is open source, free and good. Most of job by SAS can also be done by R. If it can not be done, you probably should go find another workaround instead for paying for this specific feature.
 
-There are some papers about how to predict churners in R. The solutions using R looks more like academic papers since R users are mostly statistician. So I would cite them in academic way:   
+There are some papers about how to predict churners in R. The solutions using R looks more like academic papers since R users are mostly Statisticians. So I would cite them in academic way:   
 Kaur, Manpreet, and Dr Prerna Mahajan. "[Churn Prediction in Telecom Industry Using R.](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)" International Journal of Engineering and Technical Research (IJETR) ISSN: 2321-0869.
 
 
