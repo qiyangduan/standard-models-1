@@ -99,17 +99,17 @@ One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Micro
 Telecom Italy used MiningMart to solve the churn problem([paper](http://www-ai.cs.uni-dortmund.de/PublicPublicationFiles/richeldi_perrucci_2002b.pdf)[slides](http://www-ai.cs.uni-dortmund.de/MMWEB/downloads/presentations/OneDaySeminar/pdf/MMartSeminarFeb03_TILAB.pdf). The paper provided very detailed information how to create a mining model. 
 
 
-John Hadden et al try to run "[Churn Prediction using Complaints Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.4005&rep=rep1&type=pdf)". 
-Hadden, John, et al. "Churn prediction using complaints data." Proceedings Of World Academy Of Science, Engineering and Technology. 2006.
+John Hadden et al try to run "[Churn Prediction using Complaints Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.4005&rep=rep1&type=pdf)". The paper is here:
+* Hadden, John, et al. "Churn prediction using complaints data." Proceedings Of World Academy Of Science, Engineering and Technology. 2006. 
 
-Cash Conceded
-2. No. of Complaints
-3. No. of appointments made for repair
-4. Type of customer
-5. No. of missed appointments
-6. No. of appointments made to a customer
-7. If an order has been placed
-8. 
+In this paper, John Hadden et al used many attributes from customer interaction, instead of traditional usage history: 
+* No. of Complaints
+* No. of appointments made for repair
+* Type of customer
+* No. of missed appointments
+* No. of appointments made to a customer
+* If an order has been placed
+
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
