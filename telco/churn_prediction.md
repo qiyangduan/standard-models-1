@@ -89,6 +89,7 @@ There are some papers about how to predict churners in R. The solutions using R 
 Microsoft is not a big player in data mining domain. However, Afaq Alam Khan et al published a paper about how to predict churners in ISP:
 * Khan, Afaq Alam, Sanjay Jamwal, and M. M. Sepehri. "[Applying data mining to customer churn prediction in an internet service provider](https://www.researchgate.net/profile/Mohammad_Mehdi_Sepehri/publication/49587595_Khan_A.A._Applying_Data_Mining_to_Customer_Churn_Prediction_in_an_Internet_Service_Provider_9(7)_8-14/links/5408883c0cf2187a6a6998df.pdf)." International Journal of Computer Applications 9.7 (2010): 8-14.
 
+Though this paper used Microsoft Mining as the tool, the general steps about how to load data, how to extract features and the algorithms to run classification (decision tree & logistic regression) can be applied to any other mining platform.
 
 One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Microsoft would have stronger presence in this domain. 
 
