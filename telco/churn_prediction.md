@@ -92,6 +92,8 @@ Microsoft is not a big player in data mining domain. However, Afaq Alam Khan et 
 Though this paper used Microsoft Mining as the tool, the general steps about how to load data, how to extract features and the algorithms to run classification (decision tree & logistic regression) can be applied to any other mining platform.
 
 One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Microsoft would have stronger presence in this domain. 
+### Other Mining Tools
+[MiningMart](http://mmart.cs.uni-dortmund.de/research/index.html) seems to be a research project and I never used it before. However, Telecom Italy used MiningMart to solve the churn problem.
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
