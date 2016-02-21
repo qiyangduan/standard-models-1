@@ -86,9 +86,10 @@ There are some papers about how to predict churners in R. The solutions using R 
 * Kaur, Manpreet, and Dr Prerna Mahajan. "[Churn Prediction in Telecom Industry Using R.](https://www.erpublication.org/admin/vol_issue1/upload%20Image/IJETR032129.pdf)" International Journal of Engineering and Technical Research (IJETR) ISSN: 2321-0869.
 
 ### Microsoft
-Microsoft is not a big player in data mining domain. However, Afaq Alam Khan published 
+Microsoft is not a big player in data mining domain. However, Afaq Alam Khan published a paper about how to predict churners in ISP:
+* Khan, Afaq Alam, Sanjay Jamwal, and M. M. Sepehri. "[Applying data mining to customer churn prediction in an internet service provider](https://www.researchgate.net/profile/Mohammad_Mehdi_Sepehri/publication/49587595_Khan_A.A._Applying_Data_Mining_to_Customer_Churn_Prediction_in_an_Internet_Service_Provider_9(7)_8-14/links/5408883c0cf2187a6a6998df.pdf)." International Journal of Computer Applications 9.7 (2010): 8-14.
 
-One thing worth mentioning is that Microsoft acquired Revolution. 
+One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Microsoft would have stronger presence in this domain. 
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
