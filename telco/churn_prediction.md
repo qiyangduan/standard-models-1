@@ -113,6 +113,14 @@ In this paper, John Hadden et al used many attributes from customer interaction,
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
+### One Churn Model for each Customer Segment
+There should be at least those different line of businesses:
+* Prepaid Mobile
+* Post paid Mobile
+* Fixed Line & Fixed Broadband
+* Enterprise Customer
+
+
 ### Customer Experience 
 ### Telecom Social Circle features
 ### Social Media Usage
