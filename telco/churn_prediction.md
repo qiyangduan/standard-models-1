@@ -118,7 +118,7 @@ Jiayin Qi et al. used logistic regression to predict the churners in fixed line 
 
 ## Different Solutions
 ### Models for Different Customer Segments
-In Telecom, different group of subscribers would show different pattern, especially about the loyalty. For example, postpaid customers are generally more loyal than prepaid customers; elder people are more stable than young people. To maximize the prediction accuracy, it is desired to create different Churn Models for those customer segments. I have seen many Telecom Operators creating over a few hundreds Churn models for different purpose.
+In Telecom, different group of subscribers would show different pattern, especially about the loyalty. For example, postpaid customers are generally more loyal than prepaid customers; elder people are more stable than young people. To maximize the prediction accuracy, it is desired to create different Churn Models for those customer segments. I have seen many Telecom Operators creating over a few hundreds Churn models for different purposes.
 
 There should be at least those different line of businesses:
 * Prepaid Mobile
