@@ -118,6 +118,7 @@ Jiayin Qi et al. used logistic regression to predict the churners in fixed line 
 
 ## Different Solutions
 ### One Churn Model for each Customer Segment
+One Churn Model for each Customer Segment
 There should be at least those different line of businesses:
 * Prepaid Mobile
 * Post paid Mobile
