@@ -130,7 +130,12 @@ There should be at least those different line of businesses:
 ### 
 
 
-Historical Usage Patterns
+## Churn Prediction by Random Forest
+In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner.
+
+## Adding More Features
+
+### Historical Usage Patterns
 ### Customer Experience 
 ### Telecom Social Circle features
 ### Social Media Usage
@@ -139,9 +144,6 @@ Like what IBM proposed.(IBM_SPSS_Telco_Churn_datasheet.pdf)
 ### Handset life cycle prediction
 We can build a handset life cycle model to calculate new handset opportunity.
 
-## Churn Prediction by Random Forest
-
-In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner.
 
 # Churn Prediction by R
 a
