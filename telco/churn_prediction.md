@@ -110,6 +110,11 @@ In this paper, John Hadden et al used many attributes from customer interaction,
 * No. of appointments made to a customer
 * If an order has been placed
 
+John achieved 82% accuracy by Decision Tree, which is better than regression and Bayesian Neural Network. It is very interesting that John's regression was actually a real Liear Regression with a few coefficients multiplying the previous list of factors.
+
+Jiayin Qi et al. used logistic regression to predict the churners in fixed line telecom. This paper contains details about features used in the model and the algorithm settings:
+Qi, Juayin, et al. "[Churn prediction with limited information in fixed-line telecommunication](http://www.wcl.ece.upatras.gr/CSNDSP/contents/Sessions/Presentations/B5%20-%20Network%20Planning%20I/B5.1.pdf)." Symposium on Communication Systems Networks and Digital Signal Processing. 2006.
+
 
 ## Different Solutions
 ### Simple Prediction over BSS Customer Profiles
