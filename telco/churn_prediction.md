@@ -93,7 +93,7 @@ Though this paper used Microsoft Mining as the tool, the general steps about how
 
 One thing worth mentioning is that Microsoft acquired Revolution in 2015.  Microsoft would have stronger presence in this domain. 
 
-### Other Mining Tools
+### Academic Papers and Other Mining Tools
 [MiningMart](http://mmart.cs.uni-dortmund.de/research/index.html) seems to be a research project and can be [downloaded](https://sourceforge.net/projects/miningmart/) from Sourceforge.  MiningMart also provided a business mining model library called [MiningMart Case Base](http://mmart.cs.uni-dortmund.de/caseBase/index.html), including Churn, Sales Analysis and Targeted Promotion (call center NIT).
 
 Telecom Italy used MiningMart to solve the churn problem([paper](http://www-ai.cs.uni-dortmund.de/PublicPublicationFiles/richeldi_perrucci_2002b.pdf)[slides](http://www-ai.cs.uni-dortmund.de/MMWEB/downloads/presentations/OneDaySeminar/pdf/MMartSeminarFeb03_TILAB.pdf). The paper provided very detailed information how to create a mining model. 
@@ -113,11 +113,10 @@ In this paper, John Hadden et al used many attributes from customer interaction,
 John achieved 82% accuracy by Decision Tree, which is better than regression and Bayesian Neural Network. It is very interesting that John's regression was actually a real Linear Regression with a few coefficients multiplying the previous list of factors.
 
 Jiayin Qi et al. used logistic regression to predict the churners in fixed line telecom. This paper contains details about features used in the model and the algorithm settings:
-Qi, Juayin, et al. "[Churn prediction with limited information in fixed-line telecommunication](http://www.wcl.ece.upatras.gr/CSNDSP/contents/Sessions/Presentations/B5%20-%20Network%20Planning%20I/B5.1.pdf)." Symposium on Communication Systems Networks and Digital Signal Processing. 2006.
+* Qi, Juayin, et al. "[Churn prediction with limited information in fixed-line telecommunication](http://www.wcl.ece.upatras.gr/CSNDSP/contents/Sessions/Presentations/B5%20-%20Network%20Planning%20I/B5.1.pdf)." Symposium on Communication Systems Networks and Digital Signal Processing. 2006.
 
 
 ## Different Solutions
-### Simple Prediction over BSS Customer Profiles
 ### One Churn Model for each Customer Segment
 There should be at least those different line of businesses:
 * Prepaid Mobile
@@ -125,6 +124,7 @@ There should be at least those different line of businesses:
 * Fixed Line & Fixed Broadband
 * Enterprise Customer
 
+### Simple Prediction over BSS Customer Profiles
 
 ### Customer Experience 
 ### Telecom Social Circle features
