@@ -127,11 +127,14 @@ There should be at least those different line of businesses:
 * Enterprise Customer
 
 ### Simple Prediction over BSS Customer Profiles
+### 
 
+
+Historical Usage Patterns
 ### Customer Experience 
 ### Telecom Social Circle features
 ### Social Media Usage
-Like what IBM proposed.
+Like what IBM proposed.(IBM_SPSS_Telco_Churn_datasheet.pdf)
 ### Deep learning to improve accuracy
 ### Handset life cycle prediction
 We can build a handset life cycle model to calculate new handset opportunity.
