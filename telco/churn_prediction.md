@@ -128,7 +128,8 @@ There should be at least those different line of businesses:
 
 ### Simple Prediction over BSS Customer Profiles
 The customer attributes acquired from CRM system are most widely used in the most of the telecom operators. Using a sample 
-[churn data] (http://www.dataminingconsultant.com/DKD.htm), YHAT team create a very instructive [blog](http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html) handling Churn problem using Python Scikit-Learn.  
+[churn data] (http://www.dataminingconsultant.com/DKD.htm), YHAT team create a very instructive [blog](http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html) handling Churn problem using Python Scikit-Learn.  You can start by trying this program.
+
 
 ## Churn Prediction by Random Forest
 In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner.
