@@ -139,7 +139,7 @@ On the contrary to the numerical data, categorical data and text data are hated 
 
 Commercial mining tools may come with automatical data preparation, since they are facing not-so-proficient customers. For example:
 * [Oracle Automatic Data Preparation](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/xform_data.htm) (or ADP) can handle categorical and numerical with outliers according to certain predefined rules.
-* 
+* Other tools like [SPSS](http://www-03.ibm.com/software/products/en/spss-data-preparation),  Microsoft all claim that they have automatic data preparation though I can find very limitted documents.
 
 In Scikit-learn document ([preparation section](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)), a few commonly used techniques are presented. You will need to apply those transformations to your own data.
 
