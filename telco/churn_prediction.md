@@ -133,10 +133,14 @@ The customer attributes acquired from CRM system are most widely used in the mos
 For easier churn prediction and future model development, we created stanmo package in Python.
 
 ### Data Encoder
-Different algorithms take different type of data as input. Numerical data is warmly welcomed by most of famous algorithms. In the real life, order amount or total usage amount are intrinsicly numerical. So most of time, you don't worry about it and simply feed those data into the algorithms and wait for the magic. Certain algorithms may perform better if you normalized the data before giving it to the algorithm.
+Different algorithms take different type of data as input. Numerical data is warmly welcomed by most of famous algorithms. In the real life, order amount or total usage amount are intrinsicly numerical. So most of time, you don't worry about it and simply feed those data into the algorithms and wait for the magic. Certain algorithms may perform better if you normalized the data before giving it to the algorithm, like SVM.
 
 On the contrary to the numerical data, categorical data and text data are hated by machine learning algorithms.  However, the categorical values are too common in our life to ignore. When we deal with customer data, we may find more categorical data than numerical ones. For example, customer gender, education level,  post code, marital status are all categorical, yet they are very important determining customer profile. 
+
+Commercial mining tools may come with automatical data preparation, since they are facing not-so-proficient customers.
 [Oracle Automatic Data Preparation](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/xform_data.htm) (or ADP) 
+
+In Scikit-learn document ([preparation section](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)), a few commonly used techniques are presented. You will need to apply those transformations to your own data.
 
 ## Churn Prediction by Random Forest
 In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner.
