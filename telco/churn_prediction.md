@@ -137,8 +137,8 @@ Different algorithms take different type of data as input. Numerical data is war
 
 On the contrary to the numerical data, categorical data and text data are hated by machine learning algorithms.  However, the categorical values are too common in our life to ignore. When we deal with customer data, we may find more categorical data than numerical ones. For example, customer gender, education level,  post code, marital status are all categorical, yet they are very important determining customer profile. 
 
-Commercial mining tools may come with automatical data preparation, since they are facing not-so-proficient customers.
-[Oracle Automatic Data Preparation](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/xform_data.htm) (or ADP) 
+Commercial mining tools may come with automatical data preparation, since they are facing not-so-proficient customers. For example:
+* [Oracle Automatic Data Preparation](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/xform_data.htm) (or ADP) 
 
 In Scikit-learn document ([preparation section](http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)), a few commonly used techniques are presented. You will need to apply those transformations to your own data.
 
