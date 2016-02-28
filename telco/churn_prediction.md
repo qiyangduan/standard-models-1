@@ -133,7 +133,7 @@ The customer attributes acquired from CRM system are most widely used in the mos
 For easier churn prediction and future model development, we created stanmo package in Python.
 
 ### Data Encoder
-Different algorithms take different type of data as input. Numerical data is warmly welcomed by most of famous algorithms. In the real life, order amount or total usage amount are intrinsicly numerical. So most of time, you don't worry about it and simply feed those data into the algorithms and wait for the magic.    On the contrary to the numerical data, categorical data and text data are hated by machine learning algorithms.  However, the categorical values are too common in our life to ignore. 
+Different algorithms take different type of data as input. Numerical data is warmly welcomed by most of famous algorithms. In the real life, order amount or total usage amount are intrinsicly numerical. So most of time, you don't worry about it and simply feed those data into the algorithms and wait for the magic.    On the contrary to the numerical data, categorical data and text data are hated by machine learning algorithms.  However, the categorical values are too common in our life to ignore. When we deal with customer data, we may find more categorical data than numerical ones. For example, customer gender, education level,  post code, marital status are all categorical, yet they are very important determining customer profile.  
 [Oracle Automatic Data Preparation](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/xform_data.htm) (or ADP) 
 
 ## Churn Prediction by Random Forest
