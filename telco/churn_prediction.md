@@ -141,7 +141,7 @@ Commercial mining tools may come with automatical data preparation, since they a
 * [Oracle Automatic Data Preparation](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/xform_data.htm) (or ADP) can handle categorical and numerical with outliers according to certain predefined rules.
 * Other tools like [SPSS](http://www-03.ibm.com/software/products/en/spss-data-preparation),  Microsoft all claim that they have automatic data preparation though I can find very limitted documents.
 
-In our churn problem, most of time the input would be a  customer profile mixed with numerical and categorical values. In stanmo model, we created a class named ChurnInputDataEncoder to transform the data.
+In our churn problem, most of time the input would be a customer profile mixed with numerical and categorical values. In stanmo model, we created a class named ChurnInputDataEncoder to transform the data.
 
 
 
