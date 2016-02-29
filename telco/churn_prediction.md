@@ -143,10 +143,10 @@ Commercial mining tools may come with automatical data preparation, since they a
 
 In our churn problem, most of time the input would be a customer profile mixed with numerical and categorical values. In stanmo model, we created a class named ChurnInputDataEncoder to transform the data.
 
-'''python
+```python
     def fit(self,input_df=None):
     def transform(self,input_df=None):
-'''    
+```   
 
 
 ## Churn Prediction by Random Forest
