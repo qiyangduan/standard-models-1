@@ -156,8 +156,6 @@ The following rules are created:
 * if the attributes is defined as categorical, convert them into one-in-K encoded columns. This encoder is saved for futher decoding.
 
 
-
-
 ## Churn Prediction by Random Forest
 In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner.
 
