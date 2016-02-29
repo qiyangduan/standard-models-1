@@ -152,8 +152,8 @@ First of all, you may want to specify data types of certain known columns to mak
 The following rules are created:
 * If the attribute is not defined:
   * if the data is numerical, take as one attribute
-  * if the data is categorical and if it contains less than 10 values, convert them into one-in-K encoded columns. 
-* if the attributes is defined as categorical, convert them into one-in-K encoded columns. 
+  * if the data is categorical and if it contains less than 10 values, convert them into one-in-K encoded columns. This encoder is saved for futher decoding.
+* if the attributes is defined as categorical, convert them into one-in-K encoded columns. This encoder is saved for futher decoding.
 * 
 
 
