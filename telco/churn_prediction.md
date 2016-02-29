@@ -155,6 +155,7 @@ The following rules are created:
   * if the data is categorical and if it contains less than 10 values, convert them into one-in-K encoded columns. 
 
 
+
 ## Churn Prediction by Random Forest
 In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner.
 
