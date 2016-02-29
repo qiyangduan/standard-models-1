@@ -154,7 +154,8 @@ The following rules are created:
   * if the data is numerical, take as one attribute
   * if the data is categorical and if it contains less than 10 values, convert them into one-in-K encoded columns. This encoder is saved for futher decoding.
 * if the attributes is defined as categorical, convert them into one-in-K encoded columns. This encoder is saved for futher decoding.
-* 
+
+
 
 
 ## Churn Prediction by Random Forest
