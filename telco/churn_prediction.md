@@ -150,7 +150,9 @@ In our churn problem, most of time the input would be a customer profile mixed w
 Given a training dataset, the fit function will look into the data distributions and create define proper rules to encode the data to be algorithm-friendly. 
 First of all, you may want to specify data types of certain known columns to make sure the auto-encoder do not mess them up. In stanmo, the types are specified in curr_sdf.column_name_types. 
 The following rules are created:
-* 
+* If the attribute is not defined:
+  * if the data is numerical, take as one attribute
+  * if the data is categorical and if it contains less than 10 values, convert them into one-in-K encoded columns. 
 
 
 ## Churn Prediction by Random Forest
