@@ -159,6 +159,8 @@ The following rules are created:
 ## Churn Prediction by Random Forest
 In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner. So in the model, we create the model by Random Forest as the default algorithm. You may choose to use decision tree or SVM for the same problem, but you probabily will find RF perform better.
 
+Now let's start building our churn prediction model. 
+
 
 ## Adding More Features
 
