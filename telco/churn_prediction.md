@@ -159,7 +159,26 @@ The following rules are created:
 ## Churn Prediction by Random Forest
 In 2009, Orange donated their data for KDD Cup. Of all participants, Random forest becomes the winner. So in the model, we create the model by Random Forest as the default algorithm. You may choose to use decision tree or SVM for the same problem, but you probabily will find RF perform better.
 
-Now let's start building our churn prediction model. 
+Now let's start building our churn prediction model. We will use stanmo prebuilt churn model and some BSS data. For detailed information about how to use stanmo, please refer to [github](https://github.com/qiyangduan/stanmo).
+
+The first step is to create a model by:
+```sh
+# stanmo create churn1 --spec=churn.ChurnMiningModel
+# stanmo list models
+```
+
+Command 'stanmo list models' should return the list of models in stanmo.Before you can use the model, you should feed in some data to fit the model. Two data files are shipped with the package under $stanmo/data. You can use those files to fit your first model and test the prediction::
+
+    # stanmo fit churn1 --input_file=~/anaconda2/envs/conda1/lib/python2.7/site-packages/stanmo/data/churn_source.csv --instance=1
+    # stanmo list models
+
+You can predict your data by two different ways. One is through the console in a batch style, as the following::
+    # stanmo predict churn1 --input=~/anaconda2/envs/conda1/lib/python2.7/site-packages/stanmo/data/churn_apply.csv --output=/tmp/churn_apply_result1.csv
+    # cat /tmp/churn_apply_result1.csv
+    
+Another way of running prediction is to start a http server and run the prediction through the REST API::
+    # stanmo runserver churn1 --port=5011 &    
+
 
 
 ## Adding More Features
