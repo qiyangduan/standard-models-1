@@ -180,7 +180,6 @@ Another way of running prediction is to start a http server and run the predicti
     # stanmo runserver churn1 --port=5011 &    
 
 
-
 ## Adding More Features
 
 ### Historical Usage Patterns
