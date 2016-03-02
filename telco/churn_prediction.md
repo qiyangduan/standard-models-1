@@ -176,7 +176,8 @@ You can predict your data by two different ways. One is through the console in a
     # stanmo predict churn1 --input=~/anaconda2/envs/conda1/lib/python2.7/site-packages/stanmo/data/churn_apply.csv --output=/tmp/churn_apply_result1.csv
     # cat /tmp/churn_apply_result1.csv
 
-In the 3rd column of tmp/churn_apply_result1.csv, you will find the predicted churn result. Now you can send this list to the      
+In the 3rd column of tmp/churn_apply_result1.csv, you will find the predicted churn result. Now you can send this list to your call center to run the retention program.
+
 
 Another way of running prediction is to start a http server and run the prediction through the REST API::
     # stanmo runserver churn1 --port=5011 &    
