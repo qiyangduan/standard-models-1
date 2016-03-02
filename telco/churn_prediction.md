@@ -179,7 +179,7 @@ You can predict your data by two different ways. One is through the console in a
 In the 3rd column of tmp/churn_apply_result1.csv, you will find the predicted churn result. Now you can send this list to your call center to run the retention program.
 
 ### Model Precision Monitoring
-
+In your complex IT system, even for the same custoemr segment, you may have multiple churn models instead of one. Each of those models are created by different algorithms and different parameters. 
 
 Another way of running prediction is to start a http server and run the prediction through the REST API::
     # stanmo runserver churn1 --port=5011 &    
