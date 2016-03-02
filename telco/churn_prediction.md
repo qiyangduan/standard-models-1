@@ -181,6 +181,7 @@ In the 3rd column of tmp/churn_apply_result1.csv, you will find the predicted ch
 ### Model Precision Monitoring
 In your complex IT system, even for the same custoemr segment, you may have multiple churn models instead of one. Each of those models are created by different algorithms and different parameters. It is desired to have a continuous monitoring and election machanism to select the best model automatically.
 
+When you want to switch from your original model to a new model (may be considering this stanmo churn model), you also want a A/B testing machanism.  
 
 Another way of running prediction is to start a http server and run the prediction through the REST API::
     # stanmo runserver churn1 --port=5011 &    
