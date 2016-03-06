@@ -6,7 +6,7 @@ According to this [blog](http://ipcarrier.blogspot.tw/2015/07/based-on-its-churn
 
 ![Churn Stats](https://lh3.googleusercontent.com/H4kvIvyq-XldLz0jwFKYP4mbyiORZ3tOqkFplxwji1LyWAyTyaqha5LKhPzj5oGVc_G5FbeY8peZJueiMI-mf11-hCZCwPMBnjpzBjGDSefll-bSfs_bqikJIof_kIhCb3zeNmY)
 
-Losing customer means huge lost of monthly subscription income. Also operators have to spend more money to win back new customers. Therefore, a good churn management solution is very important to every telecom operator.
+Losing customer means lost of monthly subscription income. Also operators have to spend more money to win back new customers. Therefore, a good churn management solution is very important to every telecom operator.
 
 ## Business Problem
 There may be minor differences of defining a churner in different operators. For example one operator may treat those prepaid subscribers who did not use the service for 3 months as already churned. Another operator may define only those who canceled services as churned. You may simply choose a definition consistent to your organization.
