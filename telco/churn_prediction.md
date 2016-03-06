@@ -183,8 +183,6 @@ In your complex IT system, even for the same custoemr segment, you may have mult
 
 When you want to switch from your original model to a new model (may be considering this stanmo churn model), you also want a A/B testing machanism. If you find new model performs even worse than original one, you can switch back. This makes us feel much more comfortable to adapt new technologies.
 
-
-
 Another way of running prediction is to start a http server and run the prediction through the REST API::
     # stanmo runserver churn1 --port=5011 &    
 
