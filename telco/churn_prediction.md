@@ -198,7 +198,7 @@ When you want to switch from your original model to a new model (may be consider
 Like what IBM proposed.(IBM_SPSS_Telco_Churn_datasheet.pdf)
 ### Deep learning to improve accuracy
 There are a few publications on the Internet regarding how to leverage Deep Learning for churn prediction problem. 
-* how to segment your customers
+* [Deep Learning for Customer Churn Prediction](https://moz.com/devblog/deep-learning-for-customer-churn-prediction/), by Matt Peters. Matt described how to prediction churners for Moz subscribers. 
 * how to prediction churners
 * how to determine Life Time Value (LTV) of each customer
 * how to detect fraud cases
