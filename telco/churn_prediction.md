@@ -197,6 +197,12 @@ When you want to switch from your original model to a new model (may be consider
 ### Social Media Usage
 Like what IBM proposed.(IBM_SPSS_Telco_Churn_datasheet.pdf)
 ### Deep learning to improve accuracy
+There are a few publications on the Internet regarding how to leverage Deep Learning for churn prediction problem. However, so far, I have not found any source code for easier replication of their result. So here I created a new program to run the churn prediction : 
+* how to segment your customers
+* how to prediction churners
+* how to determine Life Time Value (LTV) of each customer
+* how to detect fraud cases
+* 
 ### Handset life cycle prediction
 We can build a handset life cycle model to calculate new handset opportunity.
 
