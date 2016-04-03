@@ -199,7 +199,7 @@ Like what IBM proposed.(IBM_SPSS_Telco_Churn_datasheet.pdf)
 ### Deep learning to improve accuracy
 There are a few publications on the Internet regarding how to leverage Deep Learning for churn prediction problem. 
 * [Deep Learning for Customer Churn Prediction](https://moz.com/devblog/deep-learning-for-customer-churn-prediction/), by Matt Peters. Matt described how to prediction churners for Moz subscribers. 
-* how to prediction churners
+* Wise Athena applied [Deep Learning to prediction churners](http://wiseathena.com/blog/2014/12/applying-deep-learning-to-churn-prediction) in a Telecom Operator. Fanany provide a [review on Tumblr](http://fananymi.tumblr.com/post/113919770989/review-on-the-first-deep-learning-for-churn). In this paper, authors listed the source data they used (CDR and topup records) and the algorithms (Multilayer feedforward network). However, the implementation details are rather vague.
 * how to determine Life Time Value (LTV) of each customer
 * how to detect fraud cases
 
